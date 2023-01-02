@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/59142750/210270643-5a72aae1-e575-4175-8e02-199b2dc9db6d.png)
+<img width="781" alt="image" src="https://user-images.githubusercontent.com/59142750/210270678-531c3be3-a318-4206-9b81-1aa768712278.png">
 
 ## Available Scripts
 
